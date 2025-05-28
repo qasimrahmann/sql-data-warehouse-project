@@ -31,7 +31,7 @@ The first phase of this project focuses on building the data warehouse using SQL
 
 #### 🔧 **Specifications**
 **Data Sources:**
-- Import data from two source systems—an ERP and a CRM—provided as CSV files.
+- Import data from two source systems, an ERP and a CRM, provided as CSV files.
 **Data Quality:**
 - Perform data cleansing and resolve quality issues such as duplicates, missing values, and inconsistent formats prior to 
   analysis.
