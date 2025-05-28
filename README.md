@@ -5,6 +5,23 @@ The goal is to highlight best practices in data engineering and analytics, with 
 
 ---
 
+## 📖 Project Overview
+This project involves:
+
+Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
+ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
+Data Modeling: Developing fact and dimension tables optimized for analytical queries.
+Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+
+SQL Development
+Data Architect
+Data Engineering
+ETL Pipeline Developer
+Data Modeling
+Data Analytics
+
+
 ## ✅ **Project Requirements – Data Engineering Phase**
 The first phase of this project focuses on building the data warehouse using SQL Server, with the primary objective of consolidating sales data from multiple sources to support analytical reporting and informed decision-making.
 
