@@ -63,4 +63,4 @@ Sales trends: Track revenue trends over time, regional performance, and sales dr
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## **ABOUT ME**
-My name is Qasim Rahman and I am an aspiring Data Analyst. This is one of my first projects and thanks to Baraa Salkini I am able to develop my skills in the analytical field.
+My name is Qasim Rahman and I am an aspiring Data Analyst. This is one of my first projects, thanks to Baraa Salkini.
